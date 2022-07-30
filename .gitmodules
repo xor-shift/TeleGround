@@ -1,0 +1,15 @@
+[submodule "Thirdparty/imgui-sfml"]
+	path = Thirdparty/imgui-sfml
+	url = https://github.com/eliasdaler/imgui-sfml
+[submodule "Thirdparty/SFML"]
+	path = Thirdparty/SFML
+	url = https://github.com/SFML/SFML
+[submodule "Thirdparty/Crow"]
+	path = Thirdparty/Crow
+	url = https://github.com/CrowCpp/Crow
+[submodule "Thirdparty/LibStuff"]
+	path = Thirdparty/LibStuff
+	url = git@github.com:xor-shift/LibStuff.git
+[submodule "Thirdparty/imgui"]
+	path = Thirdparty/imgui
+	url = git@github.com:ocornut/imgui.git
